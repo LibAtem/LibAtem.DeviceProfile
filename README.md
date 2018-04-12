@@ -23,6 +23,6 @@ Coming soon
 
 ### License
 
-LibAtem.DeviceProfile is distributed under the GNU Lesser General Public License LGPLv3 or higher, see the file LICENSE.md for details.
+LibAtem.DeviceProfile is distributed under the GNU Lesser General Public License LGPLv3 or higher, see the file LICENSE for details.
 
 

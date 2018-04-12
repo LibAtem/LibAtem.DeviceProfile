@@ -19,6 +19,7 @@ Coming soon
 ### Related Projects
 * ATEM Client [LibAtem](https://github.com/LibAtem/LibAtem)
 * ATEM Client XML Parsing [LibAtem.XmlState](https://github.com/LibAtem/LibAtem.XmlState)
+* ATEM Client comparison tests [LibAtem.ComparisonTests](https://github.com/LibAtem/LibAtem.ComparisonTests)
 
 ### License
 

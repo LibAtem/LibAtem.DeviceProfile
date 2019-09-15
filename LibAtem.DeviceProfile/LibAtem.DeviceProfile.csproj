@@ -9,6 +9,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Remove="Profiles\Atem2MEProductionSwitcher.xml" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\..\LibAtem\LibAtem\LibAtem.csproj" />
   </ItemGroup>
 
